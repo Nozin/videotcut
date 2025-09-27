@@ -1,0 +1,12 @@
+.idea/
+venv/
+.venv/
+__pycache__/
+testfiles/
+build
+commands.txt
+bat/
+dist/
+build/
+timestamps.txt
+main.spec
